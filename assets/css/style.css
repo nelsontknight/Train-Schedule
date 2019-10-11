@@ -1,0 +1,15 @@
+panel{
+    width: 100%;
+}
+
+.jumbotron{
+    background-color: rgb(9, 23, 145);
+    color: #d4d487;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.card-header{
+    background-color: rgb(9, 23, 145);
+    color: #d4d487;
+}
